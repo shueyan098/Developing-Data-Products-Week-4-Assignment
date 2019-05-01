@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This is an app created for Developing Data Products Coursera course Week 4 assignment. This app is about a map of Setapak area, in Kuala Lumpur, Malaysia. Users are allowed to select their preferred coordinate and show them on the map. Besides, there is also suggestion of facilities available at Setapak such as hospital, restaurant, service residency and shopping mall. 
 
-For iu.R and server.R, please see: "https://github.com/shueyan098/Developing-Data-Products-Week-4-Assignment/tree/gh-pages/AssignmentWeek4_MyApp" 
+For ui.R and server.R, please see: "https://github.com/shueyan098/Developing-Data-Products-Week-4-Assignment/tree/gh-pages/AssignmentWeek4_MyApp" 
 
 ## Selection
 
